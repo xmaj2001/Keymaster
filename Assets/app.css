@@ -1,0 +1,15 @@
+/* Importa os css da plugins aqui */
+@import url(css/boostrap.css);
+@import url(css/style.css);
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Fonts */
+.primary-text {
+  color: #e9700e !important;
+  text-shadow: 1px 1px 6px rgb(187, 96, 6);
+}
+.primary{
+  background-color: #e9700e !important;
+}

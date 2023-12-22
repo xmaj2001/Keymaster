@@ -1,0 +1,8 @@
+/* Importa os css dos plugins aqui */
+@import url(../plugins/bootstrap/css/bootstrap.min.css);
+@import url(../plugins/w3/w3.css);
+@import url(../plugins/animation/animate.min.css);
+@import url(../plugins/fresco.css);
+/* Fonts */
+@import url(css/font-awesome.min.css);
+
