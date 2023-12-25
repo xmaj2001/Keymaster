@@ -1,0 +1,22 @@
+{
+    "name": "keymaster/keymaster",
+    "type": "project",
+    "description": "FrameWork PHP",
+    "authors": [
+        {
+            "name":"X-MAJ",
+            "email":"xmaj2001@gmail.com"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Router\\": "Router/",
+            "Views\\": "Views/"
+        }
+    },
+    "require": {
+        "cocur/slugify": "^4.1"
+    }
+}
